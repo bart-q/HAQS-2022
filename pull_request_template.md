@@ -13,12 +13,6 @@ Fill out this PR template to complete your HAQS submission!
 
 ### Team members
 
-bart-q#6212
-Katarzyna Nałęcz-Charkiewicz#7892
-Paweł Gora#9562
-
 ### Submission summary
-
-Solution of VQC and QKE challenges has been verified on Amazon SV1 simulator with 100% accuracy for default parameters (500 shots).
 
 ### Additional comments
