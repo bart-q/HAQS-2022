@@ -19,7 +19,7 @@ Team "Kossakowski" in [qBraid HAQS 2022](https://qbraid.com/haqs) hackathon has 
 
 - [Bartosz Tomsia](https://github.com/bart-q)
 - [Katarzyna Nałęcz-Charkiewicz](https://www.researchgate.net/profile/Katarzyna-Nalecz-Charkiewicz)
-- [Paweł Góra](https://www.mimuw.edu.pl/~pawelg/indexpl.html)
+- [Paweł Gora](https://www.mimuw.edu.pl/~pawelg/indexpl.html)
 
 ### Other solutions
 
